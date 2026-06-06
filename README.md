@@ -1,5 +1,6 @@
 # Fate/Domination Customs
 
-This repository contains custom cards created by me for [Fate/Domination board game](https://steamcommunity.com/sharedfiles/filedetails/?id=2047461756).
-
-This includes images of each card and GIMP files (.xcf). 
+Reoository containing user content for [Fate/Domination board game](https://steamcommunity.com/sharedfiles/filedetails/?id=2047461756):
+- Stuff created by me (cards, tokens, scripts, etc.). Includes images of the cards (.png), GIMP files (.xcf) and Tabletop Simulator files (.json)
+- Translations of stuff made by non-English creators.
+- Templates (not made by me, provided by Fate/Domination's creator Caresim and various creators, such as JeremyHex).
