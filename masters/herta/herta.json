@@ -1,0 +1,876 @@
+{
+  "SaveName": "",
+  "Date": "",
+  "VersionNumber": "",
+  "GameMode": "",
+  "GameType": "",
+  "GameComplexity": "",
+  "Tags": [],
+  "Gravity": 0.5,
+  "PlayArea": 0.5,
+  "Table": "",
+  "Sky": "",
+  "Note": "",
+  "TabStates": {},
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": [
+    {
+      "GUID": "93a2c7",
+      "Name": "Custom_Model_Bag",
+      "Transform": {
+        "posX": -26.68959,
+        "posY": 1.59449971,
+        "posZ": 13.6692114,
+        "rotX": -7.98904E-08,
+        "rotY": 180.035019,
+        "rotZ": -9.924935E-09,
+        "scaleX": 2.349999,
+        "scaleY": 2.349999,
+        "scaleZ": 2.349999
+      },
+      "Nickname": "Herta",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1023947675464791657/2B292629996860AAFC7A37A3CD9F38F9A72EBC19/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/2451727200941073478/4034C0832E9DABB12E11C361FE4FE3D2E0A7D30C/",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 3,
+        "TypeIndex": 6,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "SpecularIntensity": 0.0,
+          "SpecularSharpness": 2.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "Bag": {
+        "Order": 0
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "GUID": "443262",
+          "Name": "Deck",
+          "Transform": {
+            "posX": -1.83676136,
+            "posY": 2.27274513,
+            "posZ": -11.2228107,
+            "rotX": 1.66923613E-08,
+            "rotY": 179.987,
+            "rotZ": -1.88453171E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": false,
+          "SidewaysCard": false,
+          "DeckIDs": [
+            8718500,
+            8718500,
+            8718500
+          ],
+          "CustomDeck": {
+            "87185": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2451727200941081642/D4886D407E7C8C14B164FF56BFCF66207A155631/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1028450973628019412/0B2C5A09E0FD1BE226E3636B2A0A2E1596B64366/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "16d19b",
+              "Name": "CardCustom",
+              "Transform": {
+                "posX": 42.95516,
+                "posY": 1.00987244,
+                "posZ": -10.8535776,
+                "rotX": -0.00246584718,
+                "rotY": 179.987854,
+                "rotZ": 359.963531,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 8718500,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "87181": {
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2451727200941081642/D4886D407E7C8C14B164FF56BFCF66207A155631/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1028450973628019412/0B2C5A09E0FD1BE226E3636B2A0A2E1596B64366/",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "8f92bc",
+              "Name": "CardCustom",
+              "Transform": {
+                "posX": 42.81327,
+                "posY": 1.04368424,
+                "posZ": -10.268178,
+                "rotX": 359.9786,
+                "rotY": 179.987854,
+                "rotZ": -0.005362616,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 8718500,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "87181": {
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2451727200941081642/D4886D407E7C8C14B164FF56BFCF66207A155631/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1028450973628019412/0B2C5A09E0FD1BE226E3636B2A0A2E1596B64366/",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            },
+            {
+              "GUID": "96542d",
+              "Name": "CardCustom",
+              "Transform": {
+                "posX": 43.1769447,
+                "posY": 0.9744525,
+                "posZ": -10.6193085,
+                "rotX": 0.00178061018,
+                "rotY": 179.98703,
+                "rotZ": 359.9614,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.713235259,
+                "g": 0.713235259,
+                "b": 0.713235259
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": true,
+              "Hands": true,
+              "CardID": 8718500,
+              "SidewaysCard": false,
+              "CustomDeck": {
+                "87181": {
+                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2451727200941081642/D4886D407E7C8C14B164FF56BFCF66207A155631/",
+                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1028450973628019412/0B2C5A09E0FD1BE226E3636B2A0A2E1596B64366/",
+                  "NumWidth": 1,
+                  "NumHeight": 1,
+                  "BackIsHidden": true,
+                  "UniqueBack": false,
+                  "Type": 0
+                }
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          ]
+        },
+        {
+          "GUID": "c0c803",
+          "Name": "Infinite_Bag",
+          "Transform": {
+            "posX": -2.65129161,
+            "posY": 2.220372,
+            "posZ": -10.7499952,
+            "rotX": 4.52970028E-07,
+            "rotY": 0.0216440782,
+            "rotZ": 2.763587E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Remote Puppets",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.3058885,
+            "g": 0.372555166,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "MaterialIndex": -1,
+          "MeshIndex": -1,
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "ContainedObjects": [
+            {
+              "GUID": "9057e2",
+              "Name": "Figurine_Custom",
+              "Transform": {
+                "posX": -1.47631,
+                "posY": 3.10164642,
+                "posZ": -18.0115318,
+                "rotX": -1.879824E-05,
+                "rotY": 359.960938,
+                "rotZ": 0.0370983146,
+                "scaleX": 0.350000441,
+                "scaleY": 0.350000441,
+                "scaleZ": 0.350000441
+              },
+              "Nickname": "Puppet",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.5960784,
+                "g": 0.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217824279/0ADF94BED6EA4D747D5FE4F25E6B06A1DFD7FF77/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.6,
+                "WidthScale": 0.0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": "",
+              "States": {
+                "2": {
+                  "GUID": "38c957",
+                  "Name": "Figurine_Custom",
+                  "Transform": {
+                    "posX": 8.847814,
+                    "posY": 1.12704527,
+                    "posZ": -12.6646233,
+                    "rotX": 1.28919612E-06,
+                    "rotY": 359.982574,
+                    "rotZ": 4.66885558E-06,
+                    "scaleX": 1.0,
+                    "scaleY": 1.0,
+                    "scaleZ": 1.0
+                  },
+                  "Nickname": "Puppet (Active)",
+                  "Description": "",
+                  "GMNotes": "",
+                  "AltLookAngle": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "ColorDiffuse": {
+                    "r": 0.5960784,
+                    "g": 0.0,
+                    "b": 1.0
+                  },
+                  "LayoutGroupSortIndex": 0,
+                  "Value": 0,
+                  "Locked": false,
+                  "Grid": true,
+                  "Snap": true,
+                  "IgnoreFoW": false,
+                  "MeasureMovement": false,
+                  "DragSelectable": true,
+                  "Autoraise": true,
+                  "Sticky": true,
+                  "Tooltip": true,
+                  "GridProjection": false,
+                  "HideWhenFaceDown": false,
+                  "Hands": false,
+                  "CustomImage": {
+                    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217824279/0ADF94BED6EA4D747D5FE4F25E6B06A1DFD7FF77/",
+                    "ImageSecondaryURL": "",
+                    "ImageScalar": 1.6,
+                    "WidthScale": 0.0
+                  },
+                  "LuaScript": "",
+                  "LuaScriptState": "",
+                  "XmlUI": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "GUID": "e761c6",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.21246076,
+            "posY": 2.25391769,
+            "posZ": -10.8364182,
+            "rotX": -9.107063E-06,
+            "rotY": 179.996353,
+            "rotZ": 359.845459,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8719800,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "87198": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217840459/2CCACED4A4F114A44A04E8847B9442959C75DD48/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1760318146206136012/4171EAF8F3ED885CDF413C1B1145053A4FE550DE/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "7af951",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -3.21158,
+            "posY": 2.25394917,
+            "posZ": -11.142828,
+            "rotX": 0.111520261,
+            "rotY": 179.9714,
+            "rotZ": 6.5475E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8719600,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "87196": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217835977/96F1F8A0C01713D76346A778062C87B3C130707C/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217835977/96F1F8A0C01713D76346A778062C87B3C130707C/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "e99616",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.39205956,
+            "posY": 2.250963,
+            "posZ": -11.4646435,
+            "rotX": -3.747487E-07,
+            "rotY": 179.999344,
+            "rotZ": -3.92610048E-07,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8719500,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "87195": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217836748/B47C353706987C02750D1D83FBAB0F7A9CD25B99/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217836748/B47C353706987C02750D1D83FBAB0F7A9CD25B99/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "540ded",
+          "Name": "CardCustom",
+          "Transform": {
+            "posX": -2.45642614,
+            "posY": 2.25095987,
+            "posZ": -11.24319,
+            "rotX": -4.66835353E-08,
+            "rotY": 179.997971,
+            "rotZ": 1.14567877E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": true,
+          "Hands": true,
+          "CardID": 8719300,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "87193": {
+              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217834752/EB90227A4F02AF7214E3BE2EDF506CC5E87E3576/",
+              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1755834085905350819/E4B38A485163AE9081CC2A06686E1067F3FB87B7/",
+              "NumWidth": 1,
+              "NumHeight": 1,
+              "BackIsHidden": true,
+              "UniqueBack": false,
+              "Type": 0
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "3cb804",
+          "Name": "Custom_Token",
+          "Transform": {
+            "posX": -2.78359628,
+            "posY": 2.38500953,
+            "posZ": -10.7915745,
+            "rotX": -7.711185E-06,
+            "rotY": 179.999634,
+            "rotZ": 3.73250646E-06,
+            "scaleX": 0.400256664,
+            "scaleY": 1.0,
+            "scaleZ": 0.400256664
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217830995/00482F65325240697B898FE3171978F3AD03D9BF/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.0,
+            "WidthScale": 0.0,
+            "CustomToken": {
+              "Thickness": 0.295000285,
+              "MergeDistancePixels": 15.0,
+              "StandUp": false,
+              "Stackable": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": ""
+        },
+        {
+          "GUID": "d9f495",
+          "Name": "Figurine_Custom",
+          "Transform": {
+            "posX": -2.236533,
+            "posY": 2.29585338,
+            "posZ": -10.6609125,
+            "rotX": -1.29442142E-07,
+            "rotY": 359.982574,
+            "rotZ": -7.737127E-07,
+            "scaleX": 0.350000441,
+            "scaleY": 0.350000441,
+            "scaleZ": 0.350000441
+          },
+          "Nickname": "Puppet",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.5960784,
+            "g": 0.0,
+            "b": 1.0
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomImage": {
+            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217824279/0ADF94BED6EA4D747D5FE4F25E6B06A1DFD7FF77/",
+            "ImageSecondaryURL": "",
+            "ImageScalar": 1.6,
+            "WidthScale": 0.0
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "States": {
+            "2": {
+              "GUID": "38c957",
+              "Name": "Figurine_Custom",
+              "Transform": {
+                "posX": 8.847814,
+                "posY": 1.12704527,
+                "posZ": -12.6646233,
+                "rotX": 1.28919612E-06,
+                "rotY": 359.982574,
+                "rotZ": 4.66885558E-06,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+              },
+              "Nickname": "Puppet (Active)",
+              "Description": "",
+              "GMNotes": "",
+              "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "ColorDiffuse": {
+                "r": 0.5960784,
+                "g": 0.0,
+                "b": 1.0
+              },
+              "LayoutGroupSortIndex": 0,
+              "Value": 0,
+              "Locked": false,
+              "Grid": true,
+              "Snap": true,
+              "IgnoreFoW": false,
+              "MeasureMovement": false,
+              "DragSelectable": true,
+              "Autoraise": true,
+              "Sticky": true,
+              "Tooltip": true,
+              "GridProjection": false,
+              "HideWhenFaceDown": false,
+              "Hands": false,
+              "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2450611726217824279/0ADF94BED6EA4D747D5FE4F25E6B06A1DFD7FF77/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.6,
+                "WidthScale": 0.0
+              },
+              "LuaScript": "",
+              "LuaScriptState": "",
+              "XmlUI": ""
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
